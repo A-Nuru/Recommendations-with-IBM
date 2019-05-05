@@ -61,5 +61,5 @@ and how you might test how well your recommendations are working for engaging us
 Check the codes and outcomes [here.](https://github.com/A-Nuru/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb)
 
 ## Licensing, Authors, Acknowledgements
-You can find the Licensing [here](https://github.com/A-Nuru/Recommendations-with-IBM/blob/master/LICENSE.txt). Otherwise, feel free to use the code here as you would like!
+You can find the Licensing [here.](https://github.com/A-Nuru/Recommendations-with-IBM/blob/master/LICENSE.txt) Otherwise, feel free to use the code here as you would like!
 
