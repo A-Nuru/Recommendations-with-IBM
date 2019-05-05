@@ -17,6 +17,7 @@ In this adventure, I analyzed the interactions that users have with articles on 
 and make recommendations to them about new articles you think they will like. Below you can see an example of what 
 the dashboard could look like displaying articles on the IBM Watson Platform.
 
+![snip11](https://user-images.githubusercontent.com/45924101/57192994-f6bcdb80-6f36-11e9-9829-5586c785e7a1.PNG)
 
 Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here
 that shows the articles that are most pertinent to a specific user.
