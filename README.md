@@ -21,7 +21,7 @@ the dashboard could look like displaying articles on the IBM Watson Platform.
 Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here
 that shows the articles that are most pertinent to a specific user.
 
-## Project Instructions
+## Instructions
 In order to determine which articles to show to each user, I performed a study of the data available on the IBM
 Watson Studio platform. You can also create your own account to become a part of their community, and get a better understanding 
 of their data by creating an account if you have interest in this work.
@@ -57,7 +57,7 @@ individual might interact with (spoiler alert - it isn't great). You will finall
 and how you might test how well your recommendations are working for engaging users.
 
 ## Results
-Check the codes and outcomes [here.]((https://github.com/A-Nuru/Recommendations-with-IBM//blob/master/Recommendations-with-IBM)
+Check the codes and outcomes [here.](https://github.com/A-Nuru/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb)
 
 ## Licensing, Authors, Acknowledgements
 You can find the Licensing [here](https://github.com/A-Nuru/Recommendations-with-IBM/blob/master/LICENSE.txt). Otherwise, feel free to use the code here as you would like!
